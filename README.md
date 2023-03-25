@@ -1,2 +1,2 @@
-# C_Not_Hesaplay-c-V1.0
+# Universite_Not_Hesaplayici-c-V1.0
 Güncellenecek
