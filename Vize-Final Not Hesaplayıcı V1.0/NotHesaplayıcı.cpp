@@ -2,7 +2,7 @@
 #include <conio.h>
 //Buradaki kodlarda vize sınavı etkisi %40,final etkisi %60 olarak alınmış olunup sayısal olarak hangi notla geçeceğinizi size verir.
 int main()
-{ int vize,final,top1,top2,top3,x,y,z;
+{ int vize,final,top1,top2,top3;
 
  	printf("Vize notunuzu giriniz: \n");
  	scanf("%d",&vize);
